@@ -1,0 +1,15 @@
+{
+    "name": "php-skylly/globalkey",
+    "description": "全局ID生成器",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "linh",
+            "email": "haolinbird@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
